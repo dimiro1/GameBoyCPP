@@ -1,0 +1,12 @@
+(C) Organize the code. Move some methods to correct classes.
+(C) Make an dissassembler
+(B) Make a debugger
+(A) Change scanline_counter to mode_counter
+
+(DONE) Check Opcodes that use flags
+(DONE) Fix White transparent color sprites
+(DONE) Check interrupts
+(DONE) Make Memory read_byte and write_byte
+(DONE) Render baclground and OBJs
+(DONE) Make Joypad
+(DONE) Fix warning messages in Cpu.cpp due to the data type size, a possible solution is rewrite some macros to work with bytes and words.
