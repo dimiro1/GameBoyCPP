@@ -4,7 +4,7 @@ This is an OLD (2010) GameBoy emulator I wrote only for fun.
 
 It uses SDL and OpenGL to render graphics and keyboard events.
 
-It is very far from complete, but can the basic games like mario_land and tetris.
+It is very far from complete, but can run basic games like mario_land and tetris.
 
 I am uploading to github for preservation.
 
